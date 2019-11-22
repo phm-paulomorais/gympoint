@@ -1,4 +1,3 @@
-import * as Yup from 'yup';
 import Checkin from '../models/Checkin';
 import Student from '../models/Student';
 
